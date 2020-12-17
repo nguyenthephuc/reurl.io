@@ -28,7 +28,7 @@ Once you have everything setup, you can then navigate to your domain (in this ca
 
 # App Script
 
-https://github.com/nguyenthephuc/apps-script/reurl.io
+[View code](https://github.com/nguyenthephuc/apps-script/tree/main/reurl.io)
 
 # Source
 This project is a development version on https://github.com/schoraria911/gas-url-shortener
