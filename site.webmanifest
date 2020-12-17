@@ -84,7 +84,7 @@
 	"start_url" : "https://reurl.io/",
 	"lang" : "English",
 	"screenshots" : [],
-	"description" : "A redirection tool powered by Reurl.io on Google Apps Script",
+	"description" : "reurl.io is a web app to redirect a web, developed on Google App Script.",
 	"orientation" : "portrait",
 	"scope" : "/",
 	"generated" : "undefined"
