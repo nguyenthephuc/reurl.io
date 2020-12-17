@@ -1,4 +1,4 @@
-## Domain DNS stage
+# Domain DNS stage
 
 Please follow through what's available with [configuring an apex domain](https://help.github.com/en/articles/managing-a-custom-domain-for-your-github-pages-site#configuring-an-apex-domain). My approach was to create A records that point to the following IP addresses for GitHub Pages -
 
@@ -25,6 +25,9 @@ Once you have everything setup, you can then navigate to your domain (in this ca
 1. Fill in the destination (long) URL that you'd want a user to land on
 2. Provide a slug (short notation) that would go right after your domain name
 3. Hit `Enter` or click **CREATE**
+
+# App Script
+https://github.com/nguyenthephuc/apps-script
 
 # Source
 This project is a development version on https://github.com/schoraria911/gas-url-shortener
